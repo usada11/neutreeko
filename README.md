@@ -5,6 +5,9 @@
 あらゆるゲーム値と終了までの手数，終了までに最も手数を必要とする盤面のコマの並びを判定
 
 
+neutreeko_solver.pyやneutreeko_solve.pyでall_boards.pickleを作成
+
+
 count.py
 
 – all_boards.pickleを読み込み，以下を表示する
